@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zohaibasif121
-- 👀 I’m interested in Aplication devlopment
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Web devlopment
+- 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on 
 - 📫 you can reach me through e-mail @zohaibasif121@gmail.com
 - 😄 Pronouns: ...
